@@ -1,0 +1,13 @@
+4 8
+Nodo_0
+Nodo_1
+Nodo_2
+Nodo_3
+Nodo_1 Nodo_3 15.0
+Nodo_1 Nodo_0 15
+Nodo_2 Nodo_3 15
+Nodo_2 Nodo_0 15
+Nodo_3 Nodo_1 15
+Nodo_3 Nodo_2 15
+Nodo_0 Nodo_1 15
+Nodo_0 Nodo_2 15

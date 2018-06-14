@@ -1,0 +1,15 @@
+6 8
+u
+v
+w
+x
+y
+z
+u v 2
+u x 3
+x v 4
+v y 1
+y x 2
+w y 12
+w z 15
+z z 12

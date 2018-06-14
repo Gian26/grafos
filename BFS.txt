@@ -1,0 +1,19 @@
+8 10
+r
+s
+t
+u
+v
+w
+x
+y
+r s 1
+r v 2
+s w 5
+w t 7
+w x 3
+x t 23
+x u 12
+t u 32
+x y 9
+u y 10
